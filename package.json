@@ -2,7 +2,7 @@
   "name": "reminder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Shahana-kabir.github.io",
+  "homepage": "https://shahana-kabir.github.io/Menu",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
